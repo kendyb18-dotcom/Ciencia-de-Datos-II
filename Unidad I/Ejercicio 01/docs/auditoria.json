@@ -1,0 +1,11 @@
+{
+    "filas_originales": 303,
+    "filas_utilizadas": 303,
+    "duplicados_eliminados": 0,
+    "faltantes": 6,
+    "particiones": {
+        "entrenamiento": 181,
+        "validacion": 61,
+        "prueba": 61
+    }
+}

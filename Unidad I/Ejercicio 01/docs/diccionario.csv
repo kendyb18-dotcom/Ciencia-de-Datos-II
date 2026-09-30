@@ -1,0 +1,15 @@
+variable,tipo,rol,descripcion,faltantes
+age,float64,predictor,Edad,0
+sex,float64,predictor,Sexo,0
+cp,float64,predictor,Tipo de dolor,0
+trestbps,float64,predictor,Presión,0
+chol,float64,predictor,Colesterol,0
+fbs,float64,predictor,Azúcar,0
+restecg,float64,predictor,ECG,0
+thalach,float64,predictor,Frecuencia cardiaca,0
+exang,float64,predictor,Angina,0
+oldpeak,float64,predictor,Depresión ST,0
+slope,float64,predictor,Pendiente,0
+ca,float64,predictor,Vasos,0
+thal,float64,predictor,Talasemia,0
+target,int64,target,"0=Sano, 1=Enfermo",0
