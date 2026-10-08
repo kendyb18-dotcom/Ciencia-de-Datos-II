@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Tests y herramientas
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Variables de entorno y secretos locales
+.env
+.env.*
+!.env.example
+
+# Datos descargados/generados
+/data/raw/*.csv
+/data/processed/
